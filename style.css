@@ -1,0 +1,26 @@
+h1,
+h2 {
+    text-align: center;
+   
+
+}
+
+.img1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+
+.img2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+img {
+    border: 5px solid black;
+
+}
