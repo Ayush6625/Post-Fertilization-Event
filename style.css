@@ -1,0 +1,36 @@
+h1,
+h2 {
+    text-align: center;
+   
+
+}
+
+.img1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+
+.img2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+img {
+    border: 5px solid black;
+
+}
+.flex{
+    display: flex;
+}
+#name1{
+    margin-right: 10px;
+    flex: 1;
+}
+.video{
+    margin-right: 10px;
+}
